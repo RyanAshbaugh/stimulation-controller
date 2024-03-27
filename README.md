@@ -1,6 +1,6 @@
 # Electromagnetic Stimulation Platform
 
-This repository contains the code and documentation for the stimulation controller used in the paper [Bioelectromagnetic Platform for Cell, Tissue, and In Vivo Stimulation](https://example.comhttps://www.mdpi.com/2079-6374/11/8/248).
+This repository contains the code and documentation for the stimulation controller used in the paper [*Bioelectromagnetic Platform for Cell, Tissue, and In Vivo Stimulation*](https://example.comhttps://www.mdpi.com/2079-6374/11/8/248).
 
 ![Image Description](./images/graphical_abstract.png)
 
