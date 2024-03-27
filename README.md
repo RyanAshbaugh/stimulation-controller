@@ -14,6 +14,12 @@ Additionally, the following three figures show the use cases, physical and elect
 ![Image Description](./images/magnetic_field_simulations.png)
 ![Image Description](./images/assembled_coils.png)
 
+# Data Collection
+
+The following video gives an overview of the process used to collect experimental data from coils to validate performance. The process consisted of 3D prinint custom mounts to attach a magnetometer sensor to a 3-axis robotic arm, which was then configured to scan over the region of interest near the coils both while they were operating and off to obtain both active and sham conditions.
+
+<video src="./videos/three-axis-scanner.mp4" controls></video>
+
 # Initial Setup
 
 ## ELEGOO Nano Setup
