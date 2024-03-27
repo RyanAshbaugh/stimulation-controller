@@ -18,7 +18,7 @@ Additionally, the following three figures show the use cases, physical and elect
 
 The following video gives an overview of the process used to collect experimental data from coils to validate performance. The process consisted of 3D prinint custom mounts to attach a magnetometer sensor to a 3-axis robotic arm, which was then configured to scan over the region of interest near the coils both while they were operating and off to obtain both active and sham conditions.
 
-<video src="./videos/three-axis-scanner.mp4" controls></video>
+![Image Description](./images/three-axis-scanner-crop.gif)
 
 # Initial Setup
 
