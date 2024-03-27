@@ -1,3 +1,19 @@
+# Electromagnetic Stimulation Platform
+
+This repository contains the code and documentation for the stimulation controller used in the paper [Bioelectromagnetic Platform for Cell, Tissue, and In Vivo Stimulation](https://example.comhttps://www.mdpi.com/2079-6374/11/8/248).
+
+![Image Description](./images/graphical_abstract.png)
+
+# Documentation
+
+Detailed documentation of both the coils and stimulation controller can be found in the manuals in the docs folder.
+
+Additionally, the following three figures show the use cases, physical and electromagnetic properties, and the assembled coils and stimulation controller.
+
+![Image Description](./images/simulated_coil_holders.png)
+![Image Description](./images/magnetic_field_simulations.png)
+![Image Description](./images/assembled_coils.png)
+
 # Initial Setup
 
 ## ELEGOO Nano Setup
